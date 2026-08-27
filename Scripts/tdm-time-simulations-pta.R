@@ -8,7 +8,7 @@ library(tidyverse)
 library(patchwork)
 library(here)
 
-# Input CSV file exported from Simulx - 200 simulated patients on GitHub repo due to file size
+# Input CSV file exported from Simulx - 128 simulated patients on GitHub repo due to file size
 input_file <- here(
   "Datasets",
   "tdm-time-simulatedData.csv"
