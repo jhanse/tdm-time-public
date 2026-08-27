@@ -1,0 +1,2 @@
+- Remove the record_id column from the clinical-metadata file before final commit. Retain TDM001 etc and RNA ids.
+- Link to Datasets/ folder in R scripts located in Scripts/

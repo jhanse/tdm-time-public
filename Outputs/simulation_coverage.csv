@@ -1,0 +1,15 @@
+group,minimum_time,maximum_time,individuals,rows
+QDS_Cohort,0,48,1000,481000
+CI_Cohort,0,48,1000,481000
+egfr_min_QDS,0,48,1000,481000
+egfr_min_CI,0,48,1000,481000
+egfr_max_QDS,0,48,1000,481000
+egfr_max_CI,0,48,1000,481000
+fac4_min_QDS,0,48,1000,481000
+fac4_min_CI,0,48,1000,481000
+fac4_max_QDS,0,48,1000,481000
+fac4_max_CI,0,48,1000,481000
+CRP_min_QDS,0,48,1000,481000
+CRP_min_CI,0,48,1000,481000
+CRP_max_QDS,0,48,1000,481000
+CRP_max_CI,0,48,1000,481000
