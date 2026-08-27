@@ -85,15 +85,15 @@ make_table1 <- function(d) {
       "Sepsis, likely respiratory origin",
       "VAP",
       "CAP",
-      "SOFA score, median [IQR]",
+      "SOFA score",
       "Vasopressor requirement, n (%)",
-      "White cell count",
-      "C-reactive protein",
-      "Procalcitonin",
-      "eGFR",
-      "Skin moisture",
-      "SRS1/SRS2",
-      "Hyper-/Hypo-inflammatory"
+      "White cell count, x10^9/L",
+      "C-reactive protein, mg/L",
+      "Procalcitonin, ng/mL",
+      "eGFR, mL/min/1.73m2",
+      "Skin moisture, %",
+      "SRS1/SRS2, n (%)",
+      "Hyper-/Hypo-inflammatory, n (%)"
     ),
     
     Value = c(
