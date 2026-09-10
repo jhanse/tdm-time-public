@@ -1,309 +1,309 @@
 group,regimen,covariate,phenotype,MIC_mg_L,target,n,attained_n,PTA,PTA_lower_95,PTA_upper_95
-CRP_max_CI,Continuous infusion,CRP,High,0.25,100% fT>4xMIC,128,128,1,0.970863043726492,1
-CRP_max_CI,Continuous infusion,CRP,High,0.5,100% fT>4xMIC,128,128,1,0.970863043726492,1
-CRP_max_CI,Continuous infusion,CRP,High,1,100% fT>4xMIC,128,128,1,0.970863043726492,1
-CRP_max_CI,Continuous infusion,CRP,High,2,100% fT>4xMIC,128,128,1,0.970863043726492,1
-CRP_max_CI,Continuous infusion,CRP,High,4,100% fT>4xMIC,128,128,1,0.970863043726492,1
-CRP_max_CI,Continuous infusion,CRP,High,8,100% fT>4xMIC,128,128,1,0.970863043726492,1
-CRP_max_CI,Continuous infusion,CRP,High,16,100% fT>4xMIC,128,127,0.9921875,0.957073740561139,0.998619568107126
-CRP_max_CI,Continuous infusion,CRP,High,32,100% fT>4xMIC,128,83,0.6484375,0.562497838920375,0.725727127185928
-CRP_max_CI,Continuous infusion,CRP,High,64,100% fT>4xMIC,128,4,0.03125,0.0122182652450534,0.0775976312613607
-CRP_max_CI,Continuous infusion,CRP,High,128,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-CRP_max_CI,Continuous infusion,CRP,High,256,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-CRP_max_CI,Continuous infusion,CRP,High,0.25,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_max_CI,Continuous infusion,CRP,High,0.5,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_max_CI,Continuous infusion,CRP,High,1,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_max_CI,Continuous infusion,CRP,High,2,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_max_CI,Continuous infusion,CRP,High,4,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_max_CI,Continuous infusion,CRP,High,8,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_max_CI,Continuous infusion,CRP,High,16,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_max_CI,Continuous infusion,CRP,High,32,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_max_CI,Continuous infusion,CRP,High,64,100% fT>MIC,128,127,0.9921875,0.957073740561139,0.998619568107126
-CRP_max_CI,Continuous infusion,CRP,High,128,100% fT>MIC,128,83,0.6484375,0.562497838920375,0.725727127185928
-CRP_max_CI,Continuous infusion,CRP,High,256,100% fT>MIC,128,4,0.03125,0.0122182652450534,0.0775976312613607
-CRP_min_CI,Continuous infusion,CRP,Low,0.25,100% fT>4xMIC,128,128,1,0.970863043726492,1
-CRP_min_CI,Continuous infusion,CRP,Low,0.5,100% fT>4xMIC,128,128,1,0.970863043726492,1
-CRP_min_CI,Continuous infusion,CRP,Low,1,100% fT>4xMIC,128,128,1,0.970863043726492,1
-CRP_min_CI,Continuous infusion,CRP,Low,2,100% fT>4xMIC,128,128,1,0.970863043726492,1
-CRP_min_CI,Continuous infusion,CRP,Low,4,100% fT>4xMIC,128,128,1,0.970863043726492,1
-CRP_min_CI,Continuous infusion,CRP,Low,8,100% fT>4xMIC,128,111,0.8671875,0.797579833055046,0.915397714681596
-CRP_min_CI,Continuous infusion,CRP,Low,16,100% fT>4xMIC,128,37,0.2890625,0.217583997678026,0.372833155749861
-CRP_min_CI,Continuous infusion,CRP,Low,32,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-CRP_min_CI,Continuous infusion,CRP,Low,64,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-CRP_min_CI,Continuous infusion,CRP,Low,128,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-CRP_min_CI,Continuous infusion,CRP,Low,256,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-CRP_min_CI,Continuous infusion,CRP,Low,0.25,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_min_CI,Continuous infusion,CRP,Low,0.5,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_min_CI,Continuous infusion,CRP,Low,1,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_min_CI,Continuous infusion,CRP,Low,2,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_min_CI,Continuous infusion,CRP,Low,4,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_min_CI,Continuous infusion,CRP,Low,8,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_min_CI,Continuous infusion,CRP,Low,16,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_min_CI,Continuous infusion,CRP,Low,32,100% fT>MIC,128,111,0.8671875,0.797579833055046,0.915397714681596
-CRP_min_CI,Continuous infusion,CRP,Low,64,100% fT>MIC,128,37,0.2890625,0.217583997678026,0.372833155749861
-CRP_min_CI,Continuous infusion,CRP,Low,128,100% fT>MIC,128,0,0,0,0.0291369562735084
-CRP_min_CI,Continuous infusion,CRP,Low,256,100% fT>MIC,128,0,0,0,0.0291369562735084
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,0.25,100% fT>4xMIC,128,128,1,0.970863043726492,1
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,0.5,100% fT>4xMIC,128,128,1,0.970863043726492,1
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,1,100% fT>4xMIC,128,128,1,0.970863043726492,1
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,2,100% fT>4xMIC,128,128,1,0.970863043726492,1
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,4,100% fT>4xMIC,128,126,0.984375,0.944819023320183,0.995704550289856
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,8,100% fT>4xMIC,128,116,0.90625,0.843270027426921,0.945556195600853
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,16,100% fT>4xMIC,128,72,0.5625,0.475981011736342,0.64537686872947
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,32,100% fT>4xMIC,128,14,0.109375,0.0662787957070011,0.175234451381677
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,64,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,128,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,256,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,0.25,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,0.5,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,1,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,2,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,4,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,8,100% fT>MIC,128,128,1,0.970863043726492,1
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,16,100% fT>MIC,128,126,0.984375,0.944819023320183,0.995704550289856
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,32,100% fT>MIC,128,116,0.90625,0.843270027426921,0.945556195600853
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,64,100% fT>MIC,128,72,0.5625,0.475981011736342,0.64537686872947
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,128,100% fT>MIC,128,14,0.109375,0.0662787957070011,0.175234451381677
-CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,256,100% fT>MIC,128,0,0,0,0.0291369562735084
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,0.25,100% fT>4xMIC,128,121,0.9453125,0.891415099700253,0.973259798618654
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,0.5,100% fT>4xMIC,128,105,0.8203125,0.744783737132444,0.87717540025484
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,1,100% fT>4xMIC,128,79,0.6171875,0.530732284450299,0.696813741423098
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,2,100% fT>4xMIC,128,36,0.28125,0.210613227086817,0.364634191282843
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,4,100% fT>4xMIC,128,14,0.109375,0.0662787957070011,0.175234451381677
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,8,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,16,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,32,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,64,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,128,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,256,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,0.25,100% fT>MIC,128,127,0.9921875,0.957073740561139,0.998619568107126
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,0.5,100% fT>MIC,128,127,0.9921875,0.957073740561139,0.998619568107126
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,1,100% fT>MIC,128,121,0.9453125,0.891415099700253,0.973259798618654
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,2,100% fT>MIC,128,105,0.8203125,0.744783737132444,0.87717540025484
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,4,100% fT>MIC,128,79,0.6171875,0.530732284450299,0.696813741423098
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,8,100% fT>MIC,128,36,0.28125,0.210613227086817,0.364634191282843
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,16,100% fT>MIC,128,14,0.109375,0.0662787957070011,0.175234451381677
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,32,100% fT>MIC,128,0,0,0,0.0291369562735084
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,64,100% fT>MIC,128,0,0,0,0.0291369562735084
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,128,100% fT>MIC,128,0,0,0,0.0291369562735084
-CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,256,100% fT>MIC,128,0,0,0,0.0291369562735084
-CI_Cohort,Continuous infusion,Cohort,Observed,0.25,100% fT>4xMIC,128,128,1,0.970863043726492,1
-CI_Cohort,Continuous infusion,Cohort,Observed,0.5,100% fT>4xMIC,128,128,1,0.970863043726492,1
-CI_Cohort,Continuous infusion,Cohort,Observed,1,100% fT>4xMIC,128,128,1,0.970863043726492,1
-CI_Cohort,Continuous infusion,Cohort,Observed,2,100% fT>4xMIC,128,128,1,0.970863043726492,1
-CI_Cohort,Continuous infusion,Cohort,Observed,4,100% fT>4xMIC,128,128,1,0.970863043726492,1
-CI_Cohort,Continuous infusion,Cohort,Observed,8,100% fT>4xMIC,128,124,0.96875,0.922402368738639,0.987781734754947
-CI_Cohort,Continuous infusion,Cohort,Observed,16,100% fT>4xMIC,128,98,0.765625,0.685164568891771,0.830606423087927
-CI_Cohort,Continuous infusion,Cohort,Observed,32,100% fT>4xMIC,128,44,0.34375,0.267101576681123,0.429503722154349
-CI_Cohort,Continuous infusion,Cohort,Observed,64,100% fT>4xMIC,128,5,0.0390625,0.0167986107978037,0.0881870207668369
-CI_Cohort,Continuous infusion,Cohort,Observed,128,100% fT>4xMIC,128,1,0.0078125,0.00138043189287424,0.0429262594388606
-CI_Cohort,Continuous infusion,Cohort,Observed,256,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-CI_Cohort,Continuous infusion,Cohort,Observed,0.25,100% fT>MIC,128,128,1,0.970863043726492,1
-CI_Cohort,Continuous infusion,Cohort,Observed,0.5,100% fT>MIC,128,128,1,0.970863043726492,1
-CI_Cohort,Continuous infusion,Cohort,Observed,1,100% fT>MIC,128,128,1,0.970863043726492,1
-CI_Cohort,Continuous infusion,Cohort,Observed,2,100% fT>MIC,128,128,1,0.970863043726492,1
-CI_Cohort,Continuous infusion,Cohort,Observed,4,100% fT>MIC,128,128,1,0.970863043726492,1
-CI_Cohort,Continuous infusion,Cohort,Observed,8,100% fT>MIC,128,128,1,0.970863043726492,1
-CI_Cohort,Continuous infusion,Cohort,Observed,16,100% fT>MIC,128,128,1,0.970863043726492,1
-CI_Cohort,Continuous infusion,Cohort,Observed,32,100% fT>MIC,128,124,0.96875,0.922402368738639,0.987781734754947
-CI_Cohort,Continuous infusion,Cohort,Observed,64,100% fT>MIC,128,98,0.765625,0.685164568891771,0.830606423087927
-CI_Cohort,Continuous infusion,Cohort,Observed,128,100% fT>MIC,128,44,0.34375,0.267101576681123,0.429503722154349
-CI_Cohort,Continuous infusion,Cohort,Observed,256,100% fT>MIC,128,5,0.0390625,0.0167986107978037,0.0881870207668369
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,0.25,100% fT>4xMIC,128,126,0.984375,0.944819023320183,0.995704550289856
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,0.5,100% fT>4xMIC,128,124,0.96875,0.922402368738639,0.987781734754947
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,1,100% fT>4xMIC,128,120,0.9375,0.881512088955741,0.967993074304939
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,2,100% fT>4xMIC,128,106,0.828125,0.753460031926983,0.883668840518527
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,4,100% fT>4xMIC,128,91,0.7109375,0.62716684425014,0.782416002321974
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,8,100% fT>4xMIC,128,69,0.5390625,0.452829831272052,0.623018844019081
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,16,100% fT>4xMIC,128,37,0.2890625,0.217583997678026,0.372833155749861
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,32,100% fT>4xMIC,128,13,0.1015625,0.0603186487268409,0.166024863303611
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,64,100% fT>4xMIC,128,3,0.0234375,0.00800241639675548,0.0666437450514322
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,128,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,256,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,0.25,100% fT>MIC,128,127,0.9921875,0.957073740561139,0.998619568107126
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,0.5,100% fT>MIC,128,126,0.984375,0.944819023320183,0.995704550289856
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,1,100% fT>MIC,128,126,0.984375,0.944819023320183,0.995704550289856
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,2,100% fT>MIC,128,124,0.96875,0.922402368738639,0.987781734754947
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,4,100% fT>MIC,128,120,0.9375,0.881512088955741,0.967993074304939
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,8,100% fT>MIC,128,106,0.828125,0.753460031926983,0.883668840518527
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,16,100% fT>MIC,128,91,0.7109375,0.62716684425014,0.782416002321974
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,32,100% fT>MIC,128,69,0.5390625,0.452829831272052,0.623018844019081
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,64,100% fT>MIC,128,37,0.2890625,0.217583997678026,0.372833155749861
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,128,100% fT>MIC,128,13,0.1015625,0.0603186487268409,0.166024863303611
-QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,256,100% fT>MIC,128,3,0.0234375,0.00800241639675548,0.0666437450514322
-fac4_max_CI,Continuous infusion,Factor 4,High,0.25,100% fT>4xMIC,128,128,1,0.970863043726492,1
-fac4_max_CI,Continuous infusion,Factor 4,High,0.5,100% fT>4xMIC,128,128,1,0.970863043726492,1
-fac4_max_CI,Continuous infusion,Factor 4,High,1,100% fT>4xMIC,128,128,1,0.970863043726492,1
-fac4_max_CI,Continuous infusion,Factor 4,High,2,100% fT>4xMIC,128,128,1,0.970863043726492,1
-fac4_max_CI,Continuous infusion,Factor 4,High,4,100% fT>4xMIC,128,128,1,0.970863043726492,1
-fac4_max_CI,Continuous infusion,Factor 4,High,8,100% fT>4xMIC,128,128,1,0.970863043726492,1
-fac4_max_CI,Continuous infusion,Factor 4,High,16,100% fT>4xMIC,128,128,1,0.970863043726492,1
-fac4_max_CI,Continuous infusion,Factor 4,High,32,100% fT>4xMIC,128,123,0.9609375,0.911812979233163,0.983201389202196
-fac4_max_CI,Continuous infusion,Factor 4,High,64,100% fT>4xMIC,128,43,0.3359375,0.259953772788283,0.421481790988962
-fac4_max_CI,Continuous infusion,Factor 4,High,128,100% fT>4xMIC,128,1,0.0078125,0.00138043189287424,0.0429262594388606
-fac4_max_CI,Continuous infusion,Factor 4,High,256,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-fac4_max_CI,Continuous infusion,Factor 4,High,0.25,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_max_CI,Continuous infusion,Factor 4,High,0.5,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_max_CI,Continuous infusion,Factor 4,High,1,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_max_CI,Continuous infusion,Factor 4,High,2,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_max_CI,Continuous infusion,Factor 4,High,4,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_max_CI,Continuous infusion,Factor 4,High,8,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_max_CI,Continuous infusion,Factor 4,High,16,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_max_CI,Continuous infusion,Factor 4,High,32,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_max_CI,Continuous infusion,Factor 4,High,64,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_max_CI,Continuous infusion,Factor 4,High,128,100% fT>MIC,128,123,0.9609375,0.911812979233163,0.983201389202196
-fac4_max_CI,Continuous infusion,Factor 4,High,256,100% fT>MIC,128,43,0.3359375,0.259953772788283,0.421481790988962
-fac4_min_CI,Continuous infusion,Factor 4,Low,0.25,100% fT>4xMIC,128,128,1,0.970863043726492,1
-fac4_min_CI,Continuous infusion,Factor 4,Low,0.5,100% fT>4xMIC,128,128,1,0.970863043726492,1
-fac4_min_CI,Continuous infusion,Factor 4,Low,1,100% fT>4xMIC,128,128,1,0.970863043726492,1
-fac4_min_CI,Continuous infusion,Factor 4,Low,2,100% fT>4xMIC,128,128,1,0.970863043726492,1
-fac4_min_CI,Continuous infusion,Factor 4,Low,4,100% fT>4xMIC,128,128,1,0.970863043726492,1
-fac4_min_CI,Continuous infusion,Factor 4,Low,8,100% fT>4xMIC,128,127,0.9921875,0.957073740561139,0.998619568107126
-fac4_min_CI,Continuous infusion,Factor 4,Low,16,100% fT>4xMIC,128,90,0.703125,0.618994772349554,0.775418339164333
-fac4_min_CI,Continuous infusion,Factor 4,Low,32,100% fT>4xMIC,128,9,0.0703125,0.03742976830394,0.128234803493606
-fac4_min_CI,Continuous infusion,Factor 4,Low,64,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-fac4_min_CI,Continuous infusion,Factor 4,Low,128,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-fac4_min_CI,Continuous infusion,Factor 4,Low,256,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-fac4_min_CI,Continuous infusion,Factor 4,Low,0.25,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_min_CI,Continuous infusion,Factor 4,Low,0.5,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_min_CI,Continuous infusion,Factor 4,Low,1,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_min_CI,Continuous infusion,Factor 4,Low,2,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_min_CI,Continuous infusion,Factor 4,Low,4,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_min_CI,Continuous infusion,Factor 4,Low,8,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_min_CI,Continuous infusion,Factor 4,Low,16,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_min_CI,Continuous infusion,Factor 4,Low,32,100% fT>MIC,128,127,0.9921875,0.957073740561139,0.998619568107126
-fac4_min_CI,Continuous infusion,Factor 4,Low,64,100% fT>MIC,128,90,0.703125,0.618994772349554,0.775418339164333
-fac4_min_CI,Continuous infusion,Factor 4,Low,128,100% fT>MIC,128,9,0.0703125,0.03742976830394,0.128234803493606
-fac4_min_CI,Continuous infusion,Factor 4,Low,256,100% fT>MIC,128,0,0,0,0.0291369562735084
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,0.25,100% fT>4xMIC,128,128,1,0.970863043726492,1
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,0.5,100% fT>4xMIC,128,128,1,0.970863043726492,1
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,1,100% fT>4xMIC,128,128,1,0.970863043726492,1
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,2,100% fT>4xMIC,128,128,1,0.970863043726492,1
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,4,100% fT>4xMIC,128,128,1,0.970863043726492,1
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,8,100% fT>4xMIC,128,128,1,0.970863043726492,1
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,16,100% fT>4xMIC,128,118,0.921875,0.86215306819521,0.957012624949018
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,32,100% fT>4xMIC,128,67,0.5234375,0.437497931240494,0.608011273934186
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,64,100% fT>4xMIC,128,2,0.015625,0.00429544971014408,0.0551809766798172
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,128,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,256,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,0.25,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,0.5,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,1,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,2,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,4,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,8,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,16,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,32,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,64,100% fT>MIC,128,118,0.921875,0.86215306819521,0.957012624949018
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,128,100% fT>MIC,128,67,0.5234375,0.437497931240494,0.608011273934186
-fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,256,100% fT>MIC,128,2,0.015625,0.00429544971014408,0.0551809766798172
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,0.25,100% fT>4xMIC,128,127,0.9921875,0.957073740561139,0.998619568107126
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,0.5,100% fT>4xMIC,128,127,0.9921875,0.957073740561139,0.998619568107126
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,1,100% fT>4xMIC,128,120,0.9375,0.881512088955741,0.967993074304939
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,2,100% fT>4xMIC,128,108,0.84375,0.77095189057103,0.896516451990934
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,4,100% fT>4xMIC,128,70,0.546875,0.460526366722171,0.630492043627187
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,8,100% fT>4xMIC,128,18,0.140625,0.0908396949426225,0.211352492378962
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,16,100% fT>4xMIC,128,2,0.015625,0.00429544971014408,0.0551809766798172
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,32,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,64,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,128,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,256,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,0.25,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,0.5,100% fT>MIC,128,128,1,0.970863043726492,1
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,1,100% fT>MIC,128,127,0.9921875,0.957073740561139,0.998619568107126
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,2,100% fT>MIC,128,127,0.9921875,0.957073740561139,0.998619568107126
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,4,100% fT>MIC,128,120,0.9375,0.881512088955741,0.967993074304939
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,8,100% fT>MIC,128,108,0.84375,0.77095189057103,0.896516451990934
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,16,100% fT>MIC,128,70,0.546875,0.460526366722171,0.630492043627187
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,32,100% fT>MIC,128,18,0.140625,0.0908396949426225,0.211352492378962
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,64,100% fT>MIC,128,2,0.015625,0.00429544971014408,0.0551809766798172
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,128,100% fT>MIC,128,0,0,0,0.0291369562735084
-fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,256,100% fT>MIC,128,0,0,0,0.0291369562735084
-egfr_max_CI,Continuous infusion,eGFR,High,0.25,100% fT>4xMIC,128,128,1,0.970863043726492,1
-egfr_max_CI,Continuous infusion,eGFR,High,0.5,100% fT>4xMIC,128,128,1,0.970863043726492,1
-egfr_max_CI,Continuous infusion,eGFR,High,1,100% fT>4xMIC,128,128,1,0.970863043726492,1
-egfr_max_CI,Continuous infusion,eGFR,High,2,100% fT>4xMIC,128,128,1,0.970863043726492,1
-egfr_max_CI,Continuous infusion,eGFR,High,4,100% fT>4xMIC,128,128,1,0.970863043726492,1
-egfr_max_CI,Continuous infusion,eGFR,High,8,100% fT>4xMIC,128,128,1,0.970863043726492,1
-egfr_max_CI,Continuous infusion,eGFR,High,16,100% fT>4xMIC,128,108,0.84375,0.77095189057103,0.896516451990934
-egfr_max_CI,Continuous infusion,eGFR,High,32,100% fT>4xMIC,128,15,0.1171875,0.0723168234935573,0.184366158653348
-egfr_max_CI,Continuous infusion,eGFR,High,64,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-egfr_max_CI,Continuous infusion,eGFR,High,128,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-egfr_max_CI,Continuous infusion,eGFR,High,256,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-egfr_max_CI,Continuous infusion,eGFR,High,0.25,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_max_CI,Continuous infusion,eGFR,High,0.5,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_max_CI,Continuous infusion,eGFR,High,1,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_max_CI,Continuous infusion,eGFR,High,2,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_max_CI,Continuous infusion,eGFR,High,4,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_max_CI,Continuous infusion,eGFR,High,8,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_max_CI,Continuous infusion,eGFR,High,16,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_max_CI,Continuous infusion,eGFR,High,32,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_max_CI,Continuous infusion,eGFR,High,64,100% fT>MIC,128,108,0.84375,0.77095189057103,0.896516451990934
-egfr_max_CI,Continuous infusion,eGFR,High,128,100% fT>MIC,128,15,0.1171875,0.0723168234935573,0.184366158653348
-egfr_max_CI,Continuous infusion,eGFR,High,256,100% fT>MIC,128,0,0,0,0.0291369562735084
-egfr_min_CI,Continuous infusion,eGFR,Low,0.25,100% fT>4xMIC,128,128,1,0.970863043726492,1
-egfr_min_CI,Continuous infusion,eGFR,Low,0.5,100% fT>4xMIC,128,128,1,0.970863043726492,1
-egfr_min_CI,Continuous infusion,eGFR,Low,1,100% fT>4xMIC,128,128,1,0.970863043726492,1
-egfr_min_CI,Continuous infusion,eGFR,Low,2,100% fT>4xMIC,128,128,1,0.970863043726492,1
-egfr_min_CI,Continuous infusion,eGFR,Low,4,100% fT>4xMIC,128,128,1,0.970863043726492,1
-egfr_min_CI,Continuous infusion,eGFR,Low,8,100% fT>4xMIC,128,128,1,0.970863043726492,1
-egfr_min_CI,Continuous infusion,eGFR,Low,16,100% fT>4xMIC,128,127,0.9921875,0.957073740561139,0.998619568107126
-egfr_min_CI,Continuous infusion,eGFR,Low,32,100% fT>4xMIC,128,74,0.578125,0.491518473971101,0.660178876611163
-egfr_min_CI,Continuous infusion,eGFR,Low,64,100% fT>4xMIC,128,1,0.0078125,0.00138043189287424,0.0429262594388606
-egfr_min_CI,Continuous infusion,eGFR,Low,128,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-egfr_min_CI,Continuous infusion,eGFR,Low,256,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-egfr_min_CI,Continuous infusion,eGFR,Low,0.25,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_min_CI,Continuous infusion,eGFR,Low,0.5,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_min_CI,Continuous infusion,eGFR,Low,1,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_min_CI,Continuous infusion,eGFR,Low,2,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_min_CI,Continuous infusion,eGFR,Low,4,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_min_CI,Continuous infusion,eGFR,Low,8,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_min_CI,Continuous infusion,eGFR,Low,16,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_min_CI,Continuous infusion,eGFR,Low,32,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_min_CI,Continuous infusion,eGFR,Low,64,100% fT>MIC,128,127,0.9921875,0.957073740561139,0.998619568107126
-egfr_min_CI,Continuous infusion,eGFR,Low,128,100% fT>MIC,128,74,0.578125,0.491518473971101,0.660178876611163
-egfr_min_CI,Continuous infusion,eGFR,Low,256,100% fT>MIC,128,1,0.0078125,0.00138043189287424,0.0429262594388606
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,0.25,100% fT>4xMIC,128,128,1,0.970863043726492,1
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,0.5,100% fT>4xMIC,128,128,1,0.970863043726492,1
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,1,100% fT>4xMIC,128,125,0.9765625,0.933356254948568,0.991997583603245
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,2,100% fT>4xMIC,128,119,0.9296875,0.871765196506394,0.96257023169606
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,4,100% fT>4xMIC,128,90,0.703125,0.618994772349554,0.775418339164333
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,8,100% fT>4xMIC,128,45,0.3515625,0.274272872814072,0.437502161079625
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,16,100% fT>4xMIC,128,4,0.03125,0.0122182652450534,0.0775976312613607
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,32,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,64,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,128,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,256,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,0.25,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,0.5,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,1,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,2,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,4,100% fT>MIC,128,125,0.9765625,0.933356254948568,0.991997583603245
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,8,100% fT>MIC,128,119,0.9296875,0.871765196506394,0.96257023169606
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,16,100% fT>MIC,128,90,0.703125,0.618994772349554,0.775418339164333
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,32,100% fT>MIC,128,45,0.3515625,0.274272872814072,0.437502161079625
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,64,100% fT>MIC,128,4,0.03125,0.0122182652450534,0.0775976312613607
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,128,100% fT>MIC,128,0,0,0,0.0291369562735084
-egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,256,100% fT>MIC,128,0,0,0,0.0291369562735084
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,0.25,100% fT>4xMIC,128,128,1,0.970863043726492,1
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,0.5,100% fT>4xMIC,128,128,1,0.970863043726492,1
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,1,100% fT>4xMIC,128,128,1,0.970863043726492,1
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,2,100% fT>4xMIC,128,128,1,0.970863043726492,1
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,4,100% fT>4xMIC,128,128,1,0.970863043726492,1
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,8,100% fT>4xMIC,128,110,0.859375,0.788647507621038,0.909160305057377
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,16,100% fT>4xMIC,128,55,0.4296875,0.347211713326366,0.516260671149596
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,32,100% fT>4xMIC,128,9,0.0703125,0.03742976830394,0.128234803493606
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,64,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,128,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,256,100% fT>4xMIC,128,0,0,0,0.0291369562735084
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,0.25,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,0.5,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,1,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,2,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,4,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,8,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,16,100% fT>MIC,128,128,1,0.970863043726492,1
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,32,100% fT>MIC,128,110,0.859375,0.788647507621038,0.909160305057377
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,64,100% fT>MIC,128,55,0.4296875,0.347211713326366,0.516260671149596
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,128,100% fT>MIC,128,9,0.0703125,0.03742976830394,0.128234803493606
-egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,256,100% fT>MIC,128,0,0,0,0.0291369562735084
+CRP_max_CI,Continuous infusion,CRP,High,0.25,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+CRP_max_CI,Continuous infusion,CRP,High,0.5,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+CRP_max_CI,Continuous infusion,CRP,High,1,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+CRP_max_CI,Continuous infusion,CRP,High,2,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+CRP_max_CI,Continuous infusion,CRP,High,4,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+CRP_max_CI,Continuous infusion,CRP,High,8,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+CRP_max_CI,Continuous infusion,CRP,High,16,100% fT>4xMIC,10000,9887,0.9887,0.986432588781874,0.990592091210627
+CRP_max_CI,Continuous infusion,CRP,High,32,100% fT>4xMIC,10000,6315,0.6315,0.621996359411166,0.640902649017346
+CRP_max_CI,Continuous infusion,CRP,High,64,100% fT>4xMIC,10000,366,0.0366,0.0330939774350734,0.0404619122548697
+CRP_max_CI,Continuous infusion,CRP,High,128,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+CRP_max_CI,Continuous infusion,CRP,High,256,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+CRP_max_CI,Continuous infusion,CRP,High,0.25,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CRP_max_CI,Continuous infusion,CRP,High,0.5,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CRP_max_CI,Continuous infusion,CRP,High,1,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CRP_max_CI,Continuous infusion,CRP,High,2,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CRP_max_CI,Continuous infusion,CRP,High,4,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CRP_max_CI,Continuous infusion,CRP,High,8,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CRP_max_CI,Continuous infusion,CRP,High,16,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CRP_max_CI,Continuous infusion,CRP,High,32,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CRP_max_CI,Continuous infusion,CRP,High,64,100% fT>MIC,10000,9887,0.9887,0.986432588781874,0.990592091210627
+CRP_max_CI,Continuous infusion,CRP,High,128,100% fT>MIC,10000,6315,0.6315,0.621996359411166,0.640902649017346
+CRP_max_CI,Continuous infusion,CRP,High,256,100% fT>MIC,10000,366,0.0366,0.0330939774350734,0.0404619122548697
+CRP_min_CI,Continuous infusion,CRP,Low,0.25,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+CRP_min_CI,Continuous infusion,CRP,Low,0.5,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+CRP_min_CI,Continuous infusion,CRP,Low,1,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+CRP_min_CI,Continuous infusion,CRP,Low,2,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+CRP_min_CI,Continuous infusion,CRP,Low,4,100% fT>4xMIC,10000,9993,0.9993,0.99855566555873,0.999660873668312
+CRP_min_CI,Continuous infusion,CRP,Low,8,100% fT>4xMIC,10000,8709,0.8709,0.864185326785528,0.877329823223105
+CRP_min_CI,Continuous infusion,CRP,Low,16,100% fT>4xMIC,10000,2143,0.2143,0.206368069358491,0.222451347310513
+CRP_min_CI,Continuous infusion,CRP,Low,32,100% fT>4xMIC,10000,23,0.0023,0.00153315449588285,0.00344907748228863
+CRP_min_CI,Continuous infusion,CRP,Low,64,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+CRP_min_CI,Continuous infusion,CRP,Low,128,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+CRP_min_CI,Continuous infusion,CRP,Low,256,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+CRP_min_CI,Continuous infusion,CRP,Low,0.25,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CRP_min_CI,Continuous infusion,CRP,Low,0.5,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CRP_min_CI,Continuous infusion,CRP,Low,1,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CRP_min_CI,Continuous infusion,CRP,Low,2,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CRP_min_CI,Continuous infusion,CRP,Low,4,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CRP_min_CI,Continuous infusion,CRP,Low,8,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CRP_min_CI,Continuous infusion,CRP,Low,16,100% fT>MIC,10000,9993,0.9993,0.99855566555873,0.999660873668312
+CRP_min_CI,Continuous infusion,CRP,Low,32,100% fT>MIC,10000,8709,0.8709,0.864185326785528,0.877329823223105
+CRP_min_CI,Continuous infusion,CRP,Low,64,100% fT>MIC,10000,2143,0.2143,0.206368069358491,0.222451347310513
+CRP_min_CI,Continuous infusion,CRP,Low,128,100% fT>MIC,10000,23,0.0023,0.00153315449588285,0.00344907748228863
+CRP_min_CI,Continuous infusion,CRP,Low,256,100% fT>MIC,10000,0,0,0,0.000383998370676596
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,0.25,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,0.5,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,1,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,2,100% fT>4xMIC,10000,9991,0.9991,0.998290269886976,0.999526422939415
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,4,100% fT>4xMIC,10000,9887,0.9887,0.986432588781874,0.990592091210627
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,8,100% fT>4xMIC,10000,9037,0.9037,0.897762074663092,0.909327885052424
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,16,100% fT>4xMIC,10000,5274,0.5274,0.51760625746403,0.537172699425257
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,32,100% fT>4xMIC,10000,637,0.0637,0.0590789458974844,0.068656131080768
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,64,100% fT>4xMIC,10000,3,3e-04,0.00010203219941781,0.000881735772236379
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,128,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,256,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,0.25,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,0.5,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,1,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,2,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,4,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,8,100% fT>MIC,10000,9991,0.9991,0.998290269886976,0.999526422939415
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,16,100% fT>MIC,10000,9887,0.9887,0.986432588781874,0.990592091210627
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,32,100% fT>MIC,10000,9037,0.9037,0.897762074663092,0.909327885052424
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,64,100% fT>MIC,10000,5274,0.5274,0.51760625746403,0.537172699425257
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,128,100% fT>MIC,10000,637,0.0637,0.0590789458974844,0.068656131080768
+CRP_max_QDS,Intermittent short infusion (QDS),CRP,High,256,100% fT>MIC,10000,3,3e-04,0.00010203219941781,0.000881735772236379
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,0.25,100% fT>4xMIC,10000,9335,0.9335,0.928448307450339,0.938218765962285
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,0.5,100% fT>4xMIC,10000,8192,0.8192,0.811534911900905,0.826619943539255
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,1,100% fT>4xMIC,10000,6114,0.6114,0.601805467865408,0.620908977297606
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,2,100% fT>4xMIC,10000,3249,0.3249,0.31578950856169,0.334144967667721
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,4,100% fT>4xMIC,10000,935,0.0935,0.0879489766551346,0.0993632140202255
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,8,100% fT>4xMIC,10000,101,0.0101,0.00831972010424615,0.0122565214993428
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,16,100% fT>4xMIC,10000,3,3e-04,0.00010203219941781,0.000881735772236379
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,32,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,64,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,128,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,256,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,0.25,100% fT>MIC,10000,9930,0.993,0.991165996916067,0.994455380690446
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,0.5,100% fT>MIC,10000,9787,0.9787,0.975680912995282,0.981351446964632
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,1,100% fT>MIC,10000,9335,0.9335,0.928448307450339,0.938218765962285
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,2,100% fT>MIC,10000,8192,0.8192,0.811534911900905,0.826619943539255
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,4,100% fT>MIC,10000,6114,0.6114,0.601805467865408,0.620908977297606
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,8,100% fT>MIC,10000,3249,0.3249,0.31578950856169,0.334144967667721
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,16,100% fT>MIC,10000,935,0.0935,0.0879489766551346,0.0993632140202255
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,32,100% fT>MIC,10000,101,0.0101,0.00831972010424615,0.0122565214993428
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,64,100% fT>MIC,10000,3,3e-04,0.00010203219941781,0.000881735772236379
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,128,100% fT>MIC,10000,0,0,0,0.000383998370676596
+CRP_min_QDS,Intermittent short infusion (QDS),CRP,Low,256,100% fT>MIC,10000,0,0,0,0.000383998370676596
+CI_Cohort,Continuous infusion,Cohort,Observed,0.25,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+CI_Cohort,Continuous infusion,Cohort,Observed,0.5,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+CI_Cohort,Continuous infusion,Cohort,Observed,1,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+CI_Cohort,Continuous infusion,Cohort,Observed,2,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+CI_Cohort,Continuous infusion,Cohort,Observed,4,100% fT>4xMIC,10000,9984,0.9984,0.997402363083803,0.999014867340306
+CI_Cohort,Continuous infusion,Cohort,Observed,8,100% fT>4xMIC,10000,9665,0.9665,0.962790270945952,0.969851458574207
+CI_Cohort,Continuous infusion,Cohort,Observed,16,100% fT>4xMIC,10000,7683,0.7683,0.759928471153355,0.77646547532094
+CI_Cohort,Continuous infusion,Cohort,Observed,32,100% fT>4xMIC,10000,3632,0.3632,0.35382830079612,0.372676761158097
+CI_Cohort,Continuous infusion,Cohort,Observed,64,100% fT>4xMIC,10000,672,0.0672,0.0624571990866682,0.0722751899029895
+CI_Cohort,Continuous infusion,Cohort,Observed,128,100% fT>4xMIC,10000,27,0.0027,0.00185633062577562,0.00392559415369933
+CI_Cohort,Continuous infusion,Cohort,Observed,256,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+CI_Cohort,Continuous infusion,Cohort,Observed,0.25,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CI_Cohort,Continuous infusion,Cohort,Observed,0.5,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CI_Cohort,Continuous infusion,Cohort,Observed,1,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CI_Cohort,Continuous infusion,Cohort,Observed,2,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CI_Cohort,Continuous infusion,Cohort,Observed,4,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CI_Cohort,Continuous infusion,Cohort,Observed,8,100% fT>MIC,10000,10000,1,0.999616001629323,1
+CI_Cohort,Continuous infusion,Cohort,Observed,16,100% fT>MIC,10000,9984,0.9984,0.997402363083803,0.999014867340306
+CI_Cohort,Continuous infusion,Cohort,Observed,32,100% fT>MIC,10000,9665,0.9665,0.962790270945952,0.969851458574207
+CI_Cohort,Continuous infusion,Cohort,Observed,64,100% fT>MIC,10000,7683,0.7683,0.759928471153355,0.77646547532094
+CI_Cohort,Continuous infusion,Cohort,Observed,128,100% fT>MIC,10000,3632,0.3632,0.35382830079612,0.372676761158097
+CI_Cohort,Continuous infusion,Cohort,Observed,256,100% fT>MIC,10000,672,0.0672,0.0624571990866682,0.0722751899029895
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,0.25,100% fT>4xMIC,10000,9836,0.9836,0.980918546363793,0.985910050412089
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,0.5,100% fT>4xMIC,10000,9657,0.9657,0.961950268244109,0.969092075673442
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,1,100% fT>4xMIC,10000,9272,0.9272,0.921942149664117,0.932129762127977
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,2,100% fT>4xMIC,10000,8537,0.8537,0.846637533641496,0.860490825911088
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,4,100% fT>4xMIC,10000,7354,0.7354,0.726665001503445,0.74395421206364
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,8,100% fT>4xMIC,10000,5387,0.5387,0.528916582410025,0.548453696116084
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,16,100% fT>4xMIC,10000,2939,0.2939,0.285051954561708,0.302906329566685
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,32,100% fT>4xMIC,10000,936,0.0936,0.0880462051974196,0.0994659086782663
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,64,100% fT>4xMIC,10000,112,0.0112,0.00931698749023614,0.0134584093169373
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,128,100% fT>4xMIC,10000,1,1e-04,1.76526736011224e-05,0.000566268897401338
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,256,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,0.25,100% fT>MIC,10000,9976,0.9976,0.9964312236309,0.998386621190602
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,0.5,100% fT>MIC,10000,9931,0.9931,0.991277506238024,0.994543794568815
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,1,100% fT>MIC,10000,9836,0.9836,0.980918546363793,0.985910050412089
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,2,100% fT>MIC,10000,9657,0.9657,0.961950268244109,0.969092075673442
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,4,100% fT>MIC,10000,9272,0.9272,0.921942149664117,0.932129762127977
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,8,100% fT>MIC,10000,8537,0.8537,0.846637533641496,0.860490825911088
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,16,100% fT>MIC,10000,7354,0.7354,0.726665001503445,0.74395421206364
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,32,100% fT>MIC,10000,5387,0.5387,0.528916582410025,0.548453696116084
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,64,100% fT>MIC,10000,2939,0.2939,0.285051954561708,0.302906329566685
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,128,100% fT>MIC,10000,936,0.0936,0.0880462051974196,0.0994659086782663
+QDS_Cohort,Intermittent short infusion (QDS),Cohort,Observed,256,100% fT>MIC,10000,112,0.0112,0.00931698749023614,0.0134584093169373
+fac4_max_CI,Continuous infusion,Factor 4,High,0.25,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+fac4_max_CI,Continuous infusion,Factor 4,High,0.5,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+fac4_max_CI,Continuous infusion,Factor 4,High,1,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+fac4_max_CI,Continuous infusion,Factor 4,High,2,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+fac4_max_CI,Continuous infusion,Factor 4,High,4,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+fac4_max_CI,Continuous infusion,Factor 4,High,8,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+fac4_max_CI,Continuous infusion,Factor 4,High,16,100% fT>4xMIC,10000,9997,0.9997,0.999118264227764,0.999897967800582
+fac4_max_CI,Continuous infusion,Factor 4,High,32,100% fT>4xMIC,10000,9328,0.9328,0.92772481009701,0.937542800913332
+fac4_max_CI,Continuous infusion,Factor 4,High,64,100% fT>4xMIC,10000,2587,0.2587,0.250210723813376,0.267374593800312
+fac4_max_CI,Continuous infusion,Factor 4,High,128,100% fT>4xMIC,10000,8,8e-04,0.00040543371989688,0.00157795025338663
+fac4_max_CI,Continuous infusion,Factor 4,High,256,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+fac4_max_CI,Continuous infusion,Factor 4,High,0.25,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_max_CI,Continuous infusion,Factor 4,High,0.5,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_max_CI,Continuous infusion,Factor 4,High,1,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_max_CI,Continuous infusion,Factor 4,High,2,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_max_CI,Continuous infusion,Factor 4,High,4,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_max_CI,Continuous infusion,Factor 4,High,8,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_max_CI,Continuous infusion,Factor 4,High,16,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_max_CI,Continuous infusion,Factor 4,High,32,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_max_CI,Continuous infusion,Factor 4,High,64,100% fT>MIC,10000,9997,0.9997,0.999118264227764,0.999897967800582
+fac4_max_CI,Continuous infusion,Factor 4,High,128,100% fT>MIC,10000,9328,0.9328,0.92772481009701,0.937542800913332
+fac4_max_CI,Continuous infusion,Factor 4,High,256,100% fT>MIC,10000,2587,0.2587,0.250210723813376,0.267374593800312
+fac4_min_CI,Continuous infusion,Factor 4,Low,0.25,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+fac4_min_CI,Continuous infusion,Factor 4,Low,0.5,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+fac4_min_CI,Continuous infusion,Factor 4,Low,1,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+fac4_min_CI,Continuous infusion,Factor 4,Low,2,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+fac4_min_CI,Continuous infusion,Factor 4,Low,4,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+fac4_min_CI,Continuous infusion,Factor 4,Low,8,100% fT>4xMIC,10000,9791,0.9791,0.976106813339297,0.981725239421921
+fac4_min_CI,Continuous infusion,Factor 4,Low,16,100% fT>4xMIC,10000,5255,0.5255,0.515705015472617,0.535275400610479
+fac4_min_CI,Continuous infusion,Factor 4,Low,32,100% fT>4xMIC,10000,276,0.0276,0.024566008678009,0.0309967929826063
+fac4_min_CI,Continuous infusion,Factor 4,Low,64,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+fac4_min_CI,Continuous infusion,Factor 4,Low,128,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+fac4_min_CI,Continuous infusion,Factor 4,Low,256,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+fac4_min_CI,Continuous infusion,Factor 4,Low,0.25,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_min_CI,Continuous infusion,Factor 4,Low,0.5,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_min_CI,Continuous infusion,Factor 4,Low,1,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_min_CI,Continuous infusion,Factor 4,Low,2,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_min_CI,Continuous infusion,Factor 4,Low,4,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_min_CI,Continuous infusion,Factor 4,Low,8,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_min_CI,Continuous infusion,Factor 4,Low,16,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_min_CI,Continuous infusion,Factor 4,Low,32,100% fT>MIC,10000,9791,0.9791,0.976106813339297,0.981725239421921
+fac4_min_CI,Continuous infusion,Factor 4,Low,64,100% fT>MIC,10000,5255,0.5255,0.515705015472617,0.535275400610479
+fac4_min_CI,Continuous infusion,Factor 4,Low,128,100% fT>MIC,10000,276,0.0276,0.024566008678009,0.0309967929826063
+fac4_min_CI,Continuous infusion,Factor 4,Low,256,100% fT>MIC,10000,0,0,0,0.000383998370676596
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,0.25,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,0.5,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,1,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,2,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,4,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,8,100% fT>4xMIC,10000,9971,0.9971,0.995838225453434,0.997980003366439
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,16,100% fT>4xMIC,10000,9250,0.925,0.919672837003621,0.930000764381304
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,32,100% fT>4xMIC,10000,4360,0.436,0.426307202829019,0.445741948962427
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,64,100% fT>4xMIC,10000,130,0.013,0.0109594401953071,0.0154145742177319
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,128,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,256,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,0.25,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,0.5,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,1,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,2,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,4,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,8,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,16,100% fT>MIC,10000,10000,1,0.999616001629323,1
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,32,100% fT>MIC,10000,9971,0.9971,0.995838225453434,0.997980003366439
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,64,100% fT>MIC,10000,9250,0.925,0.919672837003621,0.930000764381304
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,128,100% fT>MIC,10000,4360,0.436,0.426307202829019,0.445741948962427
+fac4_max_QDS,Intermittent short infusion (QDS),Factor 4,High,256,100% fT>MIC,10000,130,0.013,0.0109594401953071,0.0154145742177319
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,0.25,100% fT>4xMIC,10000,9894,0.9894,0.987196493387657,0.991227649007125
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,0.5,100% fT>4xMIC,10000,9629,0.9629,0.959014229297069,0.966430265011358
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,1,100% fT>4xMIC,10000,8714,0.8714,0.864695982210946,0.877818783799315
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,2,100% fT>4xMIC,10000,6612,0.6612,0.651863130043594,0.670413068881699
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,4,100% fT>4xMIC,10000,3496,0.3496,0.340313406211638,0.359002100498261
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,8,100% fT>4xMIC,10000,792,0.0792,0.0740672406983827,0.0846559323303787
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,16,100% fT>4xMIC,10000,35,0.0035,0.00251777850562249,0.00486353187645937
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,32,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,64,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,128,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,256,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,0.25,100% fT>MIC,10000,9995,0.9995,0.998829974053858,0.999786411573836
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,0.5,100% fT>MIC,10000,9978,0.9978,0.996671040799947,0.998546650422207
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,1,100% fT>MIC,10000,9894,0.9894,0.987196493387657,0.991227649007125
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,2,100% fT>MIC,10000,9629,0.9629,0.959014229297069,0.966430265011358
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,4,100% fT>MIC,10000,8714,0.8714,0.864695982210946,0.877818783799315
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,8,100% fT>MIC,10000,6612,0.6612,0.651863130043594,0.670413068881699
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,16,100% fT>MIC,10000,3496,0.3496,0.340313406211638,0.359002100498261
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,32,100% fT>MIC,10000,792,0.0792,0.0740672406983827,0.0846559323303787
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,64,100% fT>MIC,10000,35,0.0035,0.00251777850562249,0.00486353187645937
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,128,100% fT>MIC,10000,0,0,0,0.000383998370676596
+fac4_min_QDS,Intermittent short infusion (QDS),Factor 4,Low,256,100% fT>MIC,10000,0,0,0,0.000383998370676596
+egfr_max_CI,Continuous infusion,eGFR,High,0.25,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+egfr_max_CI,Continuous infusion,eGFR,High,0.5,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+egfr_max_CI,Continuous infusion,eGFR,High,1,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+egfr_max_CI,Continuous infusion,eGFR,High,2,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+egfr_max_CI,Continuous infusion,eGFR,High,4,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+egfr_max_CI,Continuous infusion,eGFR,High,8,100% fT>4xMIC,10000,9959,0.9959,0.994443005072309,0.996976145343654
+egfr_max_CI,Continuous infusion,eGFR,High,16,100% fT>4xMIC,10000,7635,0.7635,0.755071274180157,0.771726358678497
+egfr_max_CI,Continuous infusion,eGFR,High,32,100% fT>4xMIC,10000,989,0.0989,0.0932020825076399,0.104905960985317
+egfr_max_CI,Continuous infusion,eGFR,High,64,100% fT>4xMIC,10000,3,3e-04,0.00010203219941781,0.000881735772236379
+egfr_max_CI,Continuous infusion,eGFR,High,128,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+egfr_max_CI,Continuous infusion,eGFR,High,256,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+egfr_max_CI,Continuous infusion,eGFR,High,0.25,100% fT>MIC,10000,10000,1,0.999616001629323,1
+egfr_max_CI,Continuous infusion,eGFR,High,0.5,100% fT>MIC,10000,10000,1,0.999616001629323,1
+egfr_max_CI,Continuous infusion,eGFR,High,1,100% fT>MIC,10000,10000,1,0.999616001629323,1
+egfr_max_CI,Continuous infusion,eGFR,High,2,100% fT>MIC,10000,10000,1,0.999616001629323,1
+egfr_max_CI,Continuous infusion,eGFR,High,4,100% fT>MIC,10000,10000,1,0.999616001629323,1
+egfr_max_CI,Continuous infusion,eGFR,High,8,100% fT>MIC,10000,10000,1,0.999616001629323,1
+egfr_max_CI,Continuous infusion,eGFR,High,16,100% fT>MIC,10000,10000,1,0.999616001629323,1
+egfr_max_CI,Continuous infusion,eGFR,High,32,100% fT>MIC,10000,9959,0.9959,0.994443005072309,0.996976145343654
+egfr_max_CI,Continuous infusion,eGFR,High,64,100% fT>MIC,10000,7635,0.7635,0.755071274180157,0.771726358678497
+egfr_max_CI,Continuous infusion,eGFR,High,128,100% fT>MIC,10000,989,0.0989,0.0932020825076399,0.104905960985317
+egfr_max_CI,Continuous infusion,eGFR,High,256,100% fT>MIC,10000,3,3e-04,0.00010203219941781,0.000881735772236379
+egfr_min_CI,Continuous infusion,eGFR,Low,0.25,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+egfr_min_CI,Continuous infusion,eGFR,Low,0.5,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+egfr_min_CI,Continuous infusion,eGFR,Low,1,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+egfr_min_CI,Continuous infusion,eGFR,Low,2,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+egfr_min_CI,Continuous infusion,eGFR,Low,4,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+egfr_min_CI,Continuous infusion,eGFR,Low,8,100% fT>4xMIC,10000,9999,0.9999,0.999433731102599,0.999982347326399
+egfr_min_CI,Continuous infusion,eGFR,Low,16,100% fT>4xMIC,10000,9800,0.98,0.977066073239287,0.982565288324863
+egfr_min_CI,Continuous infusion,eGFR,Low,32,100% fT>4xMIC,10000,5512,0.5512,0.541433886055498,0.560926792511345
+egfr_min_CI,Continuous infusion,eGFR,Low,64,100% fT>4xMIC,10000,218,0.0218,0.0191161566007535,0.0248510994409616
+egfr_min_CI,Continuous infusion,eGFR,Low,128,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+egfr_min_CI,Continuous infusion,eGFR,Low,256,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+egfr_min_CI,Continuous infusion,eGFR,Low,0.25,100% fT>MIC,10000,10000,1,0.999616001629323,1
+egfr_min_CI,Continuous infusion,eGFR,Low,0.5,100% fT>MIC,10000,10000,1,0.999616001629323,1
+egfr_min_CI,Continuous infusion,eGFR,Low,1,100% fT>MIC,10000,10000,1,0.999616001629323,1
+egfr_min_CI,Continuous infusion,eGFR,Low,2,100% fT>MIC,10000,10000,1,0.999616001629323,1
+egfr_min_CI,Continuous infusion,eGFR,Low,4,100% fT>MIC,10000,10000,1,0.999616001629323,1
+egfr_min_CI,Continuous infusion,eGFR,Low,8,100% fT>MIC,10000,10000,1,0.999616001629323,1
+egfr_min_CI,Continuous infusion,eGFR,Low,16,100% fT>MIC,10000,10000,1,0.999616001629323,1
+egfr_min_CI,Continuous infusion,eGFR,Low,32,100% fT>MIC,10000,9999,0.9999,0.999433731102599,0.999982347326399
+egfr_min_CI,Continuous infusion,eGFR,Low,64,100% fT>MIC,10000,9800,0.98,0.977066073239287,0.982565288324863
+egfr_min_CI,Continuous infusion,eGFR,Low,128,100% fT>MIC,10000,5512,0.5512,0.541433886055498,0.560926792511345
+egfr_min_CI,Continuous infusion,eGFR,Low,256,100% fT>MIC,10000,218,0.0218,0.0191161566007535,0.0248510994409616
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,0.25,100% fT>4xMIC,10000,9983,0.9983,0.997279014584904,0.998938292638879
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,0.5,100% fT>4xMIC,10000,9940,0.994,0.992285132503221,0.99533547710655
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,1,100% fT>4xMIC,10000,9724,0.9724,0.969003207017394,0.975433991321991
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,2,100% fT>4xMIC,10000,8847,0.8847,0.878291930335477,0.890812621318124
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,4,100% fT>4xMIC,10000,6556,0.6556,0.646228642046206,0.66485185766084
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,8,100% fT>4xMIC,10000,2747,0.2747,0.266039213212981,0.283533816452845
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,16,100% fT>4xMIC,10000,344,0.0344,0.0310028839693623,0.0381546953134117
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,32,100% fT>4xMIC,10000,5,5e-04,0.000213588426163826,0.00117002594614209
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,64,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,128,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,256,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,0.25,100% fT>MIC,10000,10000,1,0.999616001629323,1
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,0.5,100% fT>MIC,10000,9998,0.9998,0.999271004155992,0.999945151072679
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,1,100% fT>MIC,10000,9983,0.9983,0.997279014584904,0.998938292638879
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,2,100% fT>MIC,10000,9940,0.994,0.992285132503221,0.99533547710655
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,4,100% fT>MIC,10000,9724,0.9724,0.969003207017394,0.975433991321991
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,8,100% fT>MIC,10000,8847,0.8847,0.878291930335477,0.890812621318124
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,16,100% fT>MIC,10000,6556,0.6556,0.646228642046206,0.66485185766084
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,32,100% fT>MIC,10000,2747,0.2747,0.266039213212981,0.283533816452845
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,64,100% fT>MIC,10000,344,0.0344,0.0310028839693623,0.0381546953134117
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,128,100% fT>MIC,10000,5,5e-04,0.000213588426163826,0.00117002594614209
+egfr_max_QDS,Intermittent short infusion (QDS),eGFR,High,256,100% fT>MIC,10000,0,0,0,0.000383998370676596
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,0.25,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,0.5,100% fT>4xMIC,10000,10000,1,0.999616001629323,1
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,1,100% fT>4xMIC,10000,9999,0.9999,0.999433731102599,0.999982347326399
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,2,100% fT>4xMIC,10000,9983,0.9983,0.997279014584904,0.998938292638879
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,4,100% fT>4xMIC,10000,9812,0.9812,0.978347338307702,0.983683101660359
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,8,100% fT>4xMIC,10000,8565,0.8565,0.849491778937333,0.863234430224375
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,16,100% fT>4xMIC,10000,4205,0.4205,0.410857185174288,0.43020387056665
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,32,100% fT>4xMIC,10000,392,0.0392,0.0355698505848916,0.0431840423135239
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,64,100% fT>4xMIC,10000,1,1e-04,1.76526736011224e-05,0.000566268897401338
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,128,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,256,100% fT>4xMIC,10000,0,0,0,0.000383998370676596
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,0.25,100% fT>MIC,10000,10000,1,0.999616001629323,1
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,0.5,100% fT>MIC,10000,10000,1,0.999616001629323,1
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,1,100% fT>MIC,10000,10000,1,0.999616001629323,1
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,2,100% fT>MIC,10000,10000,1,0.999616001629323,1
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,4,100% fT>MIC,10000,9999,0.9999,0.999433731102599,0.999982347326399
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,8,100% fT>MIC,10000,9983,0.9983,0.997279014584904,0.998938292638879
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,16,100% fT>MIC,10000,9812,0.9812,0.978347338307702,0.983683101660359
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,32,100% fT>MIC,10000,8565,0.8565,0.849491778937333,0.863234430224375
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,64,100% fT>MIC,10000,4205,0.4205,0.410857185174288,0.43020387056665
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,128,100% fT>MIC,10000,392,0.0392,0.0355698505848916,0.0431840423135239
+egfr_min_QDS,Intermittent short infusion (QDS),eGFR,Low,256,100% fT>MIC,10000,1,1e-04,1.76526736011224e-05,0.000566268897401338

@@ -6,19 +6,24 @@ library(data.table)
 library(ggplot2)
 library(tidyverse)
 library(patchwork)
-library(here)
 
-# Input CSV file exported from Simulx - 128 simulated patients on GitHub repo due to file size
-input_file <- here(
-  "Datasets",
+# Set working directory
+if (interactive() && requireNamespace("rstudioapi", quietly = TRUE)) {
+  script_path <- rstudioapi::getActiveDocumentContext()$path
+  script_dir <- dirname(script_path)
+  setwd(script_dir)
+}
+
+project_root <- dirname(getwd())
+output_dir <- file.path(dirname(getwd()), "Outputs")
+data_dir <- file.path(dirname(getwd()), "Datasets")
+
+dir.create(output_dir, recursive = TRUE, showWarnings = FALSE)
+
+input_file <- file.path(
+  data_dir,
   "tdm-time-simulatedData.csv"
 )
-
-# Output directory
-output_dir <- here("Outputs")
-
-# Create if it does not already exist
-dir.create(output_dir, recursive = TRUE, showWarnings = FALSE)
 
 # Fraction unbound. Simulx Cc is assumed to be TOTAL piperacillin in mg/L
 fraction_unbound <- 0.70
@@ -419,7 +424,7 @@ pta_plot <- ggplot(
   labs(
     x = "MIC (mg/L)",
     y = "Probability of target attainment at 24-48 hours",
-    colour = "Phenotype",
+    colour = "Covariate scenario",
     linetype = "Target"
   ) +
   theme_bw(base_size = 11) +
@@ -528,6 +533,12 @@ plot_simulx_distribution <- function(data,
       ncol = ncol
     ) +
     
+    scale_x_continuous(
+      limits = c(0, 48),
+      breaks = seq(0, 48, by = 8),
+      expand = expansion(mult = c(0, 0))
+    ) +
+    
     labs(
       x = "Time (h)",
       y = "Piperacillin concentration (mg/L)"
@@ -626,7 +637,7 @@ p_covariates
 ggsave(
   file.path(output_dir, "simulated_concentrations_covariates.pdf"),
   p_covariates,
-  width = 16,
-  height = 8
+  width = 10,
+  height = 7
 )
 

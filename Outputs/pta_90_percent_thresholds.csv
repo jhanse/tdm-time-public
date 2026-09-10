@@ -17,13 +17,13 @@ Continuous infusion,Factor 4,Low,100% fT>4xMIC,8
 Continuous infusion,Factor 4,Low,100% fT>MIC,32
 Intermittent short infusion (QDS),Factor 4,High,100% fT>4xMIC,16
 Intermittent short infusion (QDS),Factor 4,High,100% fT>MIC,64
-Intermittent short infusion (QDS),Factor 4,Low,100% fT>4xMIC,1
-Intermittent short infusion (QDS),Factor 4,Low,100% fT>MIC,4
+Intermittent short infusion (QDS),Factor 4,Low,100% fT>4xMIC,0.5
+Intermittent short infusion (QDS),Factor 4,Low,100% fT>MIC,2
 Continuous infusion,eGFR,High,100% fT>4xMIC,8
 Continuous infusion,eGFR,High,100% fT>MIC,32
 Continuous infusion,eGFR,Low,100% fT>4xMIC,16
 Continuous infusion,eGFR,Low,100% fT>MIC,64
-Intermittent short infusion (QDS),eGFR,High,100% fT>4xMIC,2
-Intermittent short infusion (QDS),eGFR,High,100% fT>MIC,8
+Intermittent short infusion (QDS),eGFR,High,100% fT>4xMIC,1
+Intermittent short infusion (QDS),eGFR,High,100% fT>MIC,4
 Intermittent short infusion (QDS),eGFR,Low,100% fT>4xMIC,4
 Intermittent short infusion (QDS),eGFR,Low,100% fT>MIC,16

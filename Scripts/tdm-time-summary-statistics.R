@@ -7,22 +7,27 @@ library(patchwork)
 library(ggplot2)
 library(GGally)
 library(data.table)
-library(here)
 
-# Import dataset
-input_file <- here(
-  "Datasets",
+# Set working directory
+if (interactive() && requireNamespace("rstudioapi", quietly = TRUE)) {
+  script_path <- rstudioapi::getActiveDocumentContext()$path
+  script_dir <- dirname(script_path)
+  setwd(script_dir)
+}
+
+project_root <- dirname(getwd())
+output_dir <- file.path(dirname(getwd()), "Outputs")
+data_dir <- file.path(dirname(getwd()), "Datasets")
+
+input_file <- file.path(
+  data_dir,
   "tdm-time-clinical-metadata.csv"
 )
 
-# Output directory
-output_dir <- here("Outputs")
-
-# Create if it does not already exist
 dir.create(output_dir, recursive = TRUE, showWarnings = FALSE)
 
 # Read in file
-df <- read_csv(input_file)
+df <- readr::read_csv(input_file)
 
 # Helper functions
 mean_sd <- function(x, digits = 1) {
@@ -65,7 +70,8 @@ factor_cohort <- df %>%
   filter(analysis_id != 'TDM017')
 
 pk_cohort <- df %>%
-  filter(abx_name == 'Piperacillin/tazobactam')
+  filter(abx_name == 'Piperacillin/tazobactam') %>% 
+  filter(analysis_id != 'TDM017')
 
 
 ###  Table Data  ###
@@ -274,13 +280,13 @@ ggsave(
 ###  PK Plots  ###
 
 # GOF and residuals plots
-obs_pred_file <- here(
-  "Datasets",
+obs_pred_file <- file.path(
+  data_dir,
   "tdm-time-dv_obsVsPred.txt"
 )
 
-resid_file <- here(
-  "Datasets",
+resid_file <- file.path(
+  data_dir,
   "tdm-time-dv_residuals.txt"
 )
 
@@ -466,8 +472,8 @@ ggsave(
 
 
 ### VPC
-vpc_file <- here(
-  "Datasets",
+vpc_file <- file.path(
+  data_dir,
   "tdm-time-dv_percentiles.txt"
 )
 
@@ -588,3 +594,4 @@ ggsave(
   height = 9,
   units = "in"
 )
+
